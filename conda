@@ -1,0 +1,14 @@
+conda env list
+conda create --name matin python=3.7
+conda activate matin
+echo $PATH
+pwd
+ls -l
+ll
+cat file.txt
+mkdir newone
+cal
+date
+conda list
+which conda
+touch file.txt
